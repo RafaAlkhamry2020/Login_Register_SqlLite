@@ -1,2 +1,2 @@
-# Login_Register_Mysql
-login and register with mysql database application
+# Login_Register_Sqllite
+login and register with sqllite database application
